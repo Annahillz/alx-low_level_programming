@@ -3,7 +3,7 @@
 /**
  * add - This function adds two integers
  * @i: i is an integer
- * @1: i is an integer
+ * @1: 1 is an integer
  * Return: always (n)
  */
 
