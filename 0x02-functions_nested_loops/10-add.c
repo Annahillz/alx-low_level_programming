@@ -3,13 +3,12 @@
 /**
  * add - This function adds two integers
  * @i: i is an integer
- * @1: 1 is an integer
+ * @l: l is an integer
  * Return: always (n)
  */
-
-int add(int i, int 1)
+int add(int i, int l)
 {
 	int n;
-		n = i + 1;
+		n = i + l;
 	return (n);
 }
