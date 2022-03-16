@@ -21,7 +21,7 @@ int main(void)
 		b = s;
 		s = a + b;
 	}
-	printf("%ld\n"), s);
+	printf("%ld\n", s);
 
 	return (0);
 }
