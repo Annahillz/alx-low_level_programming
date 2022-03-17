@@ -3,9 +3,9 @@
 /**
  * print_number - this function prints an integer
  * @n: input value to check
+ *
  * Return: nothing
  */
-
 void print_number(int n)
 {
 	unsigned int num, num2;
@@ -15,7 +15,7 @@ void print_number(int n)
 	if (n < 0)
 	{
 		n = n * -1;
-		_putchar('_');
+		_putchar('-');
 	}
 	num = n;
 	num2 = num;
