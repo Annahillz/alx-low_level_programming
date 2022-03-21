@@ -10,7 +10,6 @@
  */
 void _puts(char *str)
 {
-	str;
 
 	while (str != '\0')
 	{
