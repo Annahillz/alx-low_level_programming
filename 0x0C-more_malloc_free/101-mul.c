@@ -22,6 +22,7 @@ return (1);
  *
  * Return: 0 or 98
  */
+
 int main(int argc, char **argv)
 {
 int len_1 = 0, len_2 = 0, len_r = 0, i, j, len_r_tmp, carry = 0, len_tmp;
