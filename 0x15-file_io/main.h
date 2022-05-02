@@ -23,4 +23,9 @@ void validate_elf(unsigned char *e_ident);
 unsigned int lit_to_big_endian(unsigned int x);
 void print_entry(unsigned int e_type, unsigned char *e_ident);
 
+void ensure_endianness(char little_e, void *data, unsigned int len);
+void print_elf_header(void *h);
+void print_elf_header_2(void *h);
+void put_err(char *str);
+
 #endif /* MAIN_H */
