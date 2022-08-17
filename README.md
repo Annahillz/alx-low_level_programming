@@ -1,3 +1,2 @@
-#!/bin/bash
-Starting C Programming
+# C Programming
 
